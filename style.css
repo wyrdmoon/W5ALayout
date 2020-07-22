@@ -13,6 +13,8 @@
 
 #center-image {
     width: auto;
+    padding-left: 96px;
+    padding-right: 96px;
 }
 
 #bottom-content {
