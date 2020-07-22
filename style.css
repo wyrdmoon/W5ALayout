@@ -1,0 +1,26 @@
+#top-content { 
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#top-text {
+    display: inline-block;
+    font-size: medium;
+
+}
+
+#center-image {
+    width: auto;
+}
+
+#bottom-content {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#bottom-text {display: inline-block;
+    font-size: medium;
+}
