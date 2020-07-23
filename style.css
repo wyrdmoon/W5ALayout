@@ -13,7 +13,7 @@
 
 #center-image {
     width: auto;
-    padding-left: 384px;
+    padding-left: 550px;
    
 }
 
@@ -25,4 +25,27 @@
 }
 #bottom-text {display: inline-block;
     font-size: medium;
+}
+
+#second-image {
+    width: auto;
+}
+
+#fourth-section {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#third-image {
+    width: auto;
+}
+
+#fifth-section {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
 }
