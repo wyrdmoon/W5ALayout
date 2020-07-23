@@ -14,7 +14,7 @@
 
 #center-image {
     width: auto;
-    padding-left: 550px;
+    padding-left: 650px;
    
 }
 
@@ -31,7 +31,9 @@
 }
 
 #second-image {
-    width: auto;
+    width: 50%;
+    height: 50vh;
+
 }
 
 #fourth-section {
@@ -43,7 +45,8 @@
 }
 
 #third-image {
-    width: auto;
+    width: 75vw;
+
 }
 
 #fifth-section {
